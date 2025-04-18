@@ -1,3 +1,7 @@
+![Alt text](illustration.jpg)
+
+
+
 # Reflections on ForgetIT: How Digital Systems Can Learn to Forget
 
 Ten years ago, I had the privilege of being part of the ForgetIT project, a groundbreaking European research initiative that explored how digital systems might "forget" information in ways that complement human memory. Looking back, I'm struck by how prescient our work was, as information overload has only intensified in the digital landscape.
